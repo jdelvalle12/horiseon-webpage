@@ -24,3 +24,13 @@ Missing semantic HTML elements
 Missing accessible alt attributes 
 Add on comments on both HTML & CSS codes 
 Add a title onto the application
+
+## Link to Website
+
+https://jdelvalle12.github.io/horiseon-webpage/
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/104731082/200995359-08984e7b-41c5-400d-91da-4a4096ef93f4.png)
+
+
